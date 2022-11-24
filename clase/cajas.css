@@ -1,0 +1,53 @@
+.caja{
+    width: 100px;
+    height: 100px;
+    border: 2px solid tomato;
+    display: inline-block;
+}
+
+ol li{
+    display: inline;
+}
+
+.color-beige{
+    background-color: beige;
+}
+.color-blue{
+    background-color: blue;
+}
+
+
+section{
+    font-size: 40px;
+}
+
+section p span{
+    color: pink
+}
+
+
+section p{
+    color: green
+}
+
+section p .clase{
+
+}
+
+.clase{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

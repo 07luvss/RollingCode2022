@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Island+Moments&family=Oswald:wght@300;400;500;700&family=Poppins:ital,wght@0,100;0,200;0,400;0,700;0,900;1,100;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+
+html{
+    font-size: 24px
+}
+header{
+    font-size: 96px;
+}
+.tipografia5{
+    font-size: 0.5em; /* => Padre*/
+}
+.tipografia6{
+    font-size: 2rem; /* => Root*/
+}     
+.tipografia1{
+    font-family: 'Oswald', sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+}
+.tipografia2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    font-weight: 300;
+}
+.tipografia3{
+    font-family: 'Island Moments', cursive;
+    font-size: 90px;
+    font-weight: 400;
+}
+
+
+
+
+span{
+    display: inline;
+    font-size: 55px;
+}
+p{
+    display: block;
+}
+.subrayado{
+    background-color: yellow;
+    color: 
+}
+
+
+
